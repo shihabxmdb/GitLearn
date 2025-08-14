@@ -2,3 +2,4 @@ I am file3 and i am created from feature2 branch
 Add another line2
 add line3
 GoodBye anis
+bye
